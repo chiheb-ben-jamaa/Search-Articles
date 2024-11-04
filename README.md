@@ -43,7 +43,7 @@ git clone [repository-url]
 2. Navigate to the project directory:
 
 ```bash
-cd vue-text-search
+cd Search-Articles
 ```
 
 3. Install dependencies:
